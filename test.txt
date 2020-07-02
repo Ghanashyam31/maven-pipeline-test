@@ -2,3 +2,4 @@ TEST file
 Line 1 added to test
 Line 2 added to test
 Line 3 added to test
+Line 4 added to test
