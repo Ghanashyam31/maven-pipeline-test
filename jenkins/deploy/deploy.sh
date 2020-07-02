@@ -3,6 +3,7 @@
 export IMAGE=maven-project
 export PASS=Power@#1234
 
+echo "IMAGE NAME IS: maven-project"
 echo "BUILD ID IS: $BUILD_ID"
 echo "$IMAGE" > /tmp/.auth
 echo "$BUILD_ID" >> /tmp/.auth
