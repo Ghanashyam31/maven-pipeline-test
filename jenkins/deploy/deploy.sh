@@ -1,7 +1,6 @@
 #!/bin/bash
 
 export IMAGE=maven-project
-export BUILD_ID=10
 export PASS=Power@#1234
 
 echo "$IMAGE" > /tmp/.auth
